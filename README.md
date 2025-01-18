@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JordiSeverini.JordiSeverini" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jordi+Severini😄!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Hi+There!+👋;+I'm+Jordi+Severini😄!;" />
 </h1>
 
 <h3 align="center">A passionate and driven computer science student dedicated to advancing skills in cybersecurity and software development, with a focus on building secure, innovative systems and contributing to real-world solutions.</h3>
@@ -38,3 +38,4 @@ Learning about Network Security,Threat Mitigation, Python & more!
 <br/>
 <hr/>
 
+<h1> Thank you for Visiting
