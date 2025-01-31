@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- I’m currently a student at lighthouse labs 
+ I’m currently a student at Lighthouse Labs 
   
 Learning about Network Security,Threat Mitigation, Python & more!
 
