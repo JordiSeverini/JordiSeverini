@@ -9,9 +9,7 @@
 <br/>
 
 <div align="center">
- I’m currently a student at Lighthouse Labs 
-  
-Learning about Network Security,Threat Mitigation, Python & more!
+ I recently graduated from Lighthouse Labs' cybersecurity bootcamp, earning a diploma. To further advance my career, I am currently pursuing the CompTIA Security+ certification and further enhancing my analytical skills through the Applied AI for Cybersecurity Analysts course with UVARO. I am actively seeking entry-level positions in cybersecurity or IT and am committed to continuous learning and professional development.
 
 
 
