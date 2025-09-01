@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- I recently graduated from Lighthouse Labs' cybersecurity bootcamp, earning a diploma. To further advance my career, I have also completed the CompTIA Security+ certification and further enhanced my analytical skills through the Applied AI for Cybersecurity Analysts course with UVARO. I am actively seeking entry-level positions in cybersecurity or IT and am committed to continuous learning and professional development.
+ I recently graduated from Lighthouse Labs' cybersecurity bootcamp, earning a diploma. To further advance my career, I have also completed the CompTIA Security+ certification and further enhanced my analytical skills through the Applied AI for Cybersecurity Analysts course with UVARO. I have since started my first year at Dalhousie University studying Computer Science.
 
 
 
