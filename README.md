@@ -30,7 +30,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,python,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,linux,vscode" />
 </div>
 
 <br/>
