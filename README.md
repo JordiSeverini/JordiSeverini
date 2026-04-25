@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- I recently graduated from Lighthouse Labs' cybersecurity bootcamp, earning a diploma. To further advance my career, I have also completed the CompTIA Security+ certification and further enhanced my analytical skills through the Applied AI for Cybersecurity Analysts course with UVARO. I have since started my first year at Dalhousie University studying Computer Science.
+Earned the CompTIA Security+ certification and completed a cybersecurity bootcamp at Lighthouse Labs. Recently completed first year of the Bachelor of Computer Science program at Dalhousie University, achieving a 4.24 cumulative GPA, including a 4.3 GPA in the most recent semester Seeking a summer internship to applytechnical skills alongside strong communication, and problem-solving abilities.
 
 
 
