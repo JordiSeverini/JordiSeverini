@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Hi+There!+👋;+I'm+Jordi+Severini😄!;" />
 </h1>
 
-<h3 align="center">A passionate and driven computer science student dedicated to advancing skills in cybersecurity and software development, with a focus on building secure, innovative systems and contributing to real-world solutions.</h3>
+<h3 align="center">A computer science student dedicated to advancing skills in quantitative finance, machine learning, and software development, with a focus on building innovative systems and contributing to real-world solutions.</h3>
 
 <br/>
 
 <div align="center">
-Earned the CompTIA Security+ certification and completed a cybersecurity bootcamp at Lighthouse Labs. Recently completed first year of the Bachelor of Computer Science program at Dalhousie University, achieving a 4.24 cumulative GPA, including a 4.3 GPA in the most recent semester Seeking a summer internship to applytechnical skills alongside strong communication, and problem-solving abilities.
+Recently completed first year of the Bachelor of Computer Science program at Dalhousie University, achieving a 4.24 cumulative GPA, Seeking a summer internship to apply technical skills alongside strong communication, and problem-solving abilities.
 
 
 
