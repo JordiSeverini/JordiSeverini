@@ -30,7 +30,7 @@ Second Year B.S.c Double Major Computer Science and Mathematics student at Dalho
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,markdown" />
 </div>
 
 <br/>
