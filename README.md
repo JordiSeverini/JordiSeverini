@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-Second Year B.S.c Double Major Computer Science and Mathematics student at Dalhousie University, achieving a 4.25 cumulative GPA, Seeking a summer internship to apply technical skills alongside strong communication, and problem-solving abilities.
+Second Year B.Sc Double Major Computer Science and Mathematics student at Dalhousie University, achieving a 4.25 cumulative GPA, Seeking a summer internship to apply technical skills alongside strong communication, and problem-solving abilities.
 
 
 
