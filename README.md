@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F7F7F7&lines=Hi+There!+👋;+I'm+Jordi+Severini😄!;" />
 </h1>
 
-<h3 align="center"> B.S.c Double Major Computer Science and Mathematics student dedicated to advancing skills in quantitative finance, machine learning, and software development, with a focus on building innovative systems and contributing to real-world solutions.</h3>
+<h3 align="center"> B.Sc. Double Major Computer Science and Mathematics student dedicated to advancing skills in quantitative finance, machine learning, and software development, with a focus on building innovative systems and contributing to real-world solutions.</h3>
 
 <br/>
 
